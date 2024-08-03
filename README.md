@@ -7,7 +7,16 @@ Help you compare different jobs and build a resume tailored to your field of int
 3) What education level?
 4) What does the salary look like?
 
-# TODO:
-- [ ] Develop visualisation platform
-- [ ] Develop Resume Analyser using NLTK
-- [ ] Develop Resume Analyser using Langchain
+# Job Analyser:
+1. YADAYADA
+
+
+# Resume Analyser:
+1. Resume reader. Extract PDF from text.
+   - [ ] Extract personal information. E.g. Name, Email, Phone Number, Address
+   - [ ] Extract education
+   - [ ] Extract past experiences
+   - [ ] Extract skills
+2. 
+
+# Job Analyser
